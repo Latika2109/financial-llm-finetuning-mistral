@@ -72,7 +72,7 @@ This architecture is chosen to maximize:
 - Domain specialization without updating base model weights  
 
 ---
-
+```
 ## Architecture Diagrams
 
 ### QLoRA Fine-Tuning Architecture  
@@ -91,7 +91,7 @@ This architecture is chosen to maximize:
 ![Combined System](assets/combined_system.png)
 
 ---
-
+```
 ## 4. Dataset
 
 Location:
@@ -295,4 +295,3 @@ Improved:
 
 ---
 
-```
